@@ -10,7 +10,7 @@ class LogGen():
 
         return logger
 
-# import logging
+# import logging,mnn,n,m
 # logger = logging.getLogger()
 # fhandler = logging.FileHandler(filename='mylog.log', mode='a')
 # formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
