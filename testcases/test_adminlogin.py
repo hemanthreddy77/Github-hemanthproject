@@ -10,7 +10,7 @@ class Test_login_001():
     username = input_data.get_user_email()
     password = input_data.get_user_password()
     # invalid_username = 'admininvalid@yourstore.com'
-# This is a girlkjdwlskjclkjdljljdsllkklkjlkjlkjl
+# This is logger 
     logger = LogGen.loggen()
 
     def test_title_verification(self,setup):
